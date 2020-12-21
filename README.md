@@ -138,7 +138,7 @@ Type        | Link
             outputs.tf
             variable.tf
 ```
-### Terraform commands
+## Terraform commands
 Go to respective folder structure and run below command to provision resources.
 
 Note :: You have to know resources dependencies before run below commands. 
