@@ -2,7 +2,6 @@
 
 # AWS SOUMYA CH1 Terraform
 --------------------------
-# **TERRAFORM**
 Website: https://www.terraform.io/
 
 ## Overview
@@ -138,12 +137,12 @@ Type        | Link
             outputs.tf
             variable.tf
 ```
-### Projects Items
+### Terraform commands
 Go to respective folder structure and run below command to provision resources.
 
 Note :: You have to know resources dependencies before run below commands. 
         Automation pipeline is the best way for infrastructure creation. (EX: Jenkins declarative pipelines)
 
-$ terraform init
-$ terraform plan -var-file=<path to env.tfvars> -out <resource>.tfplan
-$ terraform apply <resource>.tfplan
+ - $ terraform init
+ - $ terraform plan -var-file=<path to env.tfvars> -out <resource>.tfplan
+ - $ terraform apply <resource>.tfplan
