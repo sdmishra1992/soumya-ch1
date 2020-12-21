@@ -31,7 +31,7 @@ Terraform | 0.12.x
 ## Design
 Type        | Link  
 ----------- | -----------
-**HLD** | [Design](https://github.com/sdmishra1992/soumya-ch1/blob/main/aws.drawio)
+**Drawio** | [Design](https://github.com/sdmishra1992/soumya-ch1/blob/main/aws.drawio)
 
 <a name="folder-structure"/>
 
