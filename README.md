@@ -11,6 +11,9 @@ the multi tire application on the AWS platform. In this README you can find or
 be directed to all the relevant information regarding the infrastructure for the
 this application.
 
+End to End application flow from user's browser to webserver and get response back.
+Its highly available and load balanced design with highly secure.
+
 ## Contents
 - [Requirements](#requirements)
 - [Design](#design)
@@ -135,3 +138,12 @@ Type        | Link
             outputs.tf
             variable.tf
 ```
+### Projects Items
+Go to respective folder structure and run below command to provision resources.
+
+Note :: You have to know resources dependencies before run below commands. 
+        Automation pipeline is the best way for infrastructure creation. (EX: Jenkins declarative pipelines)
+
+$ terraform init
+$ terraform plan -var-file=<path to env.tfvars> -out <resource>.tfplan
+$ terraform apply <resource>.tfplan
