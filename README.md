@@ -1,7 +1,7 @@
 <img src="https://www.datocms-assets.com/2885/1506457071-blog-terraform-list.svg" align="right" width="120">
 
 # AWS SOUMYA CH1 Terraform
---------------------------
+
 Website: https://www.terraform.io/
 
 ## Overview
@@ -18,8 +18,9 @@ Its highly available and load balanced design with highly secure.
 - [Design](#design)
 - [Folder Structure](#folder-structure)
   - [Environment Structure](#environment-structure)
-  - [Modules Structure](#stack-structure)
-  - [Projects ](#additional-items)
+  - [Modules Structure](#Module Structure)
+  - [Projects ](#Projects)
+  - [Terraform Commands ](#Terraform Commands)
 
 <a name="requirements"/>
 
