@@ -18,9 +18,9 @@ Its highly available and load balanced design with highly secure.
 - [Design](#design)
 - [Folder Structure](#folder-structure)
   - [Environment Structure](#environment-structure)
-  - [Modules Structure](#Module Structure)
+  - [Modules Structure](#Module-Structure)
   - [Projects ](#Projects)
-  - [Terraform Commands ](#Terraform Commands)
+- [Terraform Commands ](#Terraform-Commands)
 
 <a name="requirements"/>
 
